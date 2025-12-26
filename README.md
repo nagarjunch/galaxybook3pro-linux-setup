@@ -4,10 +4,10 @@ This project contains scripts and services to fix the audio (Realtek ALC298 spea
 
 ## ✅ Tested On
 
-- **Device**: Samsung Galaxy Book2 NT950XDA
+- **Device**: Samsung Galaxy Book3 Pro
 - **Codec**: Realtek ALC298
-- **OS**: Ubuntu 22.04, 24.04+
-- **Kernel**: 5.8+ (tested with 6.x)
+- **OS**: Ubuntu 24.04+
+- **Kernel**: 6+
 
 ## 📦 What This Fix Does
 
