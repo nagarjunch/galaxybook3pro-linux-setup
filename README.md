@@ -1,4 +1,4 @@
-# 🛠️ Samsung Galaxy Book Linux Audio Fix
+# 🛠️ Samsung Galaxy Book 3 Pro Linux Audio Fix
 
 This project contains scripts and services to fix the audio (Realtek ALC298 speaker amp) on **Samsung Galaxy Book2** laptops running Ubuntu-based Linux distros. This guide helps you fix the **internal speaker issue** on Samsung Galaxy Book devices running Ubuntu, where audio doesn't work out-of-the-box due to missing speaker amp initialization.
 
@@ -153,3 +153,6 @@ Feel free to open issues or pull requests to improve this further or add fingerp
 ## 📝 License
 
 This project is open-source under the MIT License. Contributions are welcome!
+
+This is a fork of https://github.com/topzyray/galaxybook-linux-setup
+Thanks to https://github.com/lautalom for https://github.com/lautalom/GBPRO3-Sound/blob/main/T0912.sh
